@@ -1,1 +1,1 @@
-streamlit run --browser.serverAddress $SERVER_NAME --server.port $PORT American.py
+streamlit run --browser.serverAddress $SERVER_NAME --server.port $PORT Test.py
